@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		Changing Variables in JavaScripte.js = Changing Variables in JavaScripte.js
 		Compounding Augmented Numbers in JavaScript.js = Compounding Augmented Numbers in JavaScript.js
+		Concatenation of Strings with Equal and Plus Signs.js = Concatenation of Strings with Equal and Plus Signs.js
 		Declaring a variable in JavaScript.js = Declaring a variable in JavaScript.js
 		Expressing algebraeic terms in JavaScript .js = Expressing algebraeic terms in JavaScript .js
 		Finding the sum of two numbers in JavaScript.js = Finding the sum of two numbers in JavaScript.js
