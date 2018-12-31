@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0891AE1-B68F-4CC7-9172-D1238DB90D71}"
+	ProjectSection(SolutionItems) = preProject
+		Changing Variables in JavaScripte.js = Changing Variables in JavaScripte.js
+		Compounding Augmented Numbers in JavaScript.js = Compounding Augmented Numbers in JavaScript.js
+		Declaring a variable in JavaScript.js = Declaring a variable in JavaScript.js
+		Expressing algebraeic terms in JavaScript .js = Expressing algebraeic terms in JavaScript .js
+		Finding the sum of two numbers in JavaScript.js = Finding the sum of two numbers in JavaScript.js
+		Increasing numbers incrementally in JavaScript.js = Increasing numbers incrementally in JavaScript.js
+		JavaScript Data Types.js = JavaScript Data Types.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1A70E3-59A3-4729-9BDC-2E7BB65494F2}
+	EndGlobalSection
+EndGlobal
